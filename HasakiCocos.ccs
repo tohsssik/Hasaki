@@ -1,0 +1,20 @@
+<Solution>
+  <PropertyGroup Name="HasakiCocos" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="1.png" />
+        <Image Name="2.png" />
+        <Image Name="3.png" />
+        <Image Name="4.png" />
+        <Image Name="5.png" />
+        <Image Name="6.png" />
+        <Image Name="7.png" />
+        <Image Name="8.png" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="PlayerAnim.csd" Type="Skeleton" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
